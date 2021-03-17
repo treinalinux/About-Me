@@ -35,11 +35,10 @@ Não temos filhos ainda, mas está no planejamento. Eu gosto Linux, desenvolvime
 - **Desenvolvimento**
 
   - Python ``(Ainda sem experiência profissional)``
-
   - Golang ``(Ainda sem experiência profissional)``
-
   - ``Ruby On Rails (Básico)``
-
+  - ShellScript
+  - PowerShell
   - Git e Github
 
 - **DevOps** ``(Ainda estudando tecnologias relacionadas)``
