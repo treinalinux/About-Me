@@ -30,16 +30,19 @@ Não temos filhos ainda, mas está no planejamento. Eu gosto Linux, desenvolvime
 
 - **Administração de Servidores Linux**
 
-- **Administração de Servidores Windows **
+- **Administração de Servidores Windows**
 
 - **Desenvolvimento**
 
-  - Python ``(Ainda sem experiência profissional)``
-  - Golang ``(Ainda sem experiência profissional)``
-  - ``Ruby On Rails (Básico)``
+  - Ruby On Rails``(Focado)``
+  - - [Ruby on Rails Básico](https://www.treinaweb.com.br/certificado/SGGQLWAJXOTO)
+  - - [Ruby on Rails Intermediário](https://www.treinaweb.com.br/certificado/I88MCZR9I1HL)
+  - - [Ruby on Rails - Testes unitários](https://www.treinaweb.com.br/certificado/8BQOVQTPZJWZ)
   - ShellScript
   - PowerShell
   - Git e Github
+  - Python ``(Ainda sem experiência profissional)``
+  - Golang ``(Ainda sem experiência profissional)``
 
 - **DevOps** ``(Ainda estudando tecnologias relacionadas)``
 
