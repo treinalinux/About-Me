@@ -39,6 +39,7 @@ Não temos filhos ainda, mas está no planejamento. Eu gosto Linux, desenvolvime
   - - [Ruby on Rails Intermediário](https://www.treinaweb.com.br/certificado/I88MCZR9I1HL)
   - - [Ruby on Rails - Testes unitários](https://www.treinaweb.com.br/certificado/8BQOVQTPZJWZ)
   - - [Ruby on Rails Avançado](https://www.treinaweb.com.br/certificado/BGQABHOJM1FI)
+  - - Bancos de dados relacionais ``cursos em andamento``
   - ShellScript
   - PowerShell
   - Git e Github
