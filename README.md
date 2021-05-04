@@ -2,7 +2,7 @@
 
 
 
-Tenho 36 anos, sou casado a **Carla**. Moramos em Nova Iguaçu, na verdade fica mais perto de Seropédica.
+Tenho 36 anos, sou casado com a **Carla**. Moramos em Nova Iguaçu, na verdade fica mais perto de Seropédica.
 
 Não temos filhos ainda, mas está no planejamento. Eu gosto Linux, desenvolvimento e assistir esportes.
 
