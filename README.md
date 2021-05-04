@@ -2,16 +2,16 @@
 
 
 
-Tenho 36 anos, sou casado com a **Carla**. Moramos em Nova Iguaçu, na verdade fica mais perto de Seropédica.
+Tenho 36 anos, sou casado com a **Sra. Carla**. Moramos em Nova Iguaçu, na verdade fica mais perto de Seropédica.
 
 Não temos filhos ainda, mas está no planejamento. Eu gosto Linux, desenvolvimento e assistir esportes.
-
 
 Sou um profissional de infraestrutura, buscando oportunidades para trabalhar como **Desenvolvedor Ruby On Rails**.
 
 Comecei meus estudos em **Ruby On Rails**, mas estou estudando bastante para conseguir fazer uma transição de carreira, acredito que meus conhecimentos em infraestrutura podem ajudar muito nesse processo.
 
-**Ruby** não é minha primeira linguagem, minha primeira foi ShellScript e depois fui para Perl, Python e Go. Profissionalmente uso o ShellScript e um pouco de Python assim como PowerShell para tarefas do meu trabalho atual em um grande cliente.
+Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois fui para Perl, Python e Go. Profissionalmente uso o Shell Script e um pouco de Python assim como PowerShell para tarefas do meu trabalho atual em um grande cliente.
+
 
 
 ## Formação
@@ -46,7 +46,7 @@ Comecei meus estudos em **Ruby On Rails**, mas estou estudando bastante para con
   - - [Ruby on Rails - Testes unitários](https://www.treinaweb.com.br/certificado/8BQOVQTPZJWZ)
   - - [Ruby on Rails Avançado](https://www.treinaweb.com.br/certificado/BGQABHOJM1FI)
   - - Bancos de dados relacionais ``cursos em andamento``
-  - ShellScript
+  - Shell Script
   - PowerShell
   - Git e Github
   - Python ``(Ainda sem experiência profissional)``
@@ -54,7 +54,7 @@ Comecei meus estudos em **Ruby On Rails**, mas estou estudando bastante para con
 
 - **DevOps** ``(Ainda estudando tecnologias relacionadas)``
 
-- **Meu inglês é bem básico, preciso melhorar. Consigo me virar bem para documentação e administração de sistema.**
+- **Meu inglês é bem básico, preciso melhorar. Consigo me virar bem para documentação e administração de sistemas.**
 
   
 
