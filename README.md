@@ -40,7 +40,7 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
 
 - **Desenvolvimento**
 
-  - Ruby On Rails``(Focado)``
+  - Desenvolvedor Ruby On Rails ``(Focado nos meus estudos)``
   - - [Ruby on Rails Básico](https://www.treinaweb.com.br/certificado/SGGQLWAJXOTO)
   - - [Ruby on Rails Intermediário](https://www.treinaweb.com.br/certificado/I88MCZR9I1HL)
   - - [Ruby on Rails - Testes unitários](https://www.treinaweb.com.br/certificado/8BQOVQTPZJWZ)
