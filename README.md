@@ -61,7 +61,7 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
 ## Soft Skills
 
 - Gosto muito de ajudar a equipe que trabalha comigo.
-- O que for para melhorar e otimizar trabalho da equipe estou sem buscando.
+- O que for para melhorar e otimizar o trabalho da equipe estou sempre buscando.
 
 ## Experiência
 
