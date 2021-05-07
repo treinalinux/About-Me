@@ -45,7 +45,7 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
   - - [Ruby on Rails Intermediário](https://www.treinaweb.com.br/certificado/I88MCZR9I1HL)
   - - [Ruby on Rails - Testes unitários](https://www.treinaweb.com.br/certificado/8BQOVQTPZJWZ)
   - - [Ruby on Rails Avançado](https://www.treinaweb.com.br/certificado/BGQABHOJM1FI)
-  - - Bancos de dados relacionais ``cursos em andamento``
+  - - [Bancos de dados relacionais](https://www.treinaweb.com.br/certificado/R3CLLTOTDJLC) ``cursos em andamento``
   - Shell Script
   - PowerShell
   - Git e Github
