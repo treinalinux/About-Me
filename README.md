@@ -8,7 +8,7 @@ Não temos filhos ainda, mas está no planejamento. Eu gosto Linux, desenvolvime
 
 Sou um profissional de infraestrutura, buscando oportunidades para trabalhar como **Desenvolvedor Ruby On Rails**.
 
-Comecei meus estudos em **Ruby On Rails**, mas estou estudando bastante para conseguir fazer uma transição de carreira, acredito que meus conhecimentos em infraestrutura podem ajudar muito nesse processo.
+Comecei meus estudos em **Ruby On Rails** em Janeiro de 2021, mas estou estudando bastante para conseguir fazer uma transição de carreira, acredito que meus conhecimentos em infraestrutura podem ajudar muito nesse processo.
 
 Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois fui para Perl, Python e Go. Profissionalmente uso o Shell Script e um pouco de Python assim como PowerShell para tarefas do meu trabalho atual em um grande cliente.
 
@@ -43,9 +43,11 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
   - Desenvolvedor Ruby On Rails ``(Focado nos meus estudos)``
   - - [Ruby on Rails Básico](https://www.treinaweb.com.br/certificado/SGGQLWAJXOTO)
   - - [Ruby on Rails Intermediário](https://www.treinaweb.com.br/certificado/I88MCZR9I1HL)
-  - - [Ruby on Rails - Testes unitários](https://www.treinaweb.com.br/certificado/8BQOVQTPZJWZ)
   - - [Ruby on Rails Avançado](https://www.treinaweb.com.br/certificado/BGQABHOJM1FI)
+  - - [Ruby on Rails - Testes unitários](https://www.treinaweb.com.br/certificado/8BQOVQTPZJWZ)
+  - - [TDD com Ruby on Rails, RSpec e Capybara](https://www.udemy.com/certificate/UC-fcb08b78-69fb-4c66-a02d-f93e92ecfb17/)
   - - [Bancos de dados relacionais](https://www.treinaweb.com.br/certificado/R3CLLTOTDJLC) ``cursos em andamento``
+  
   - Shell Script
   - PowerShell
   - Git e Github
