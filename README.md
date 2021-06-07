@@ -46,6 +46,7 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
   - - [Ruby on Rails Avançado](https://www.treinaweb.com.br/certificado/BGQABHOJM1FI)
   - - [Ruby on Rails - Testes unitários](https://www.treinaweb.com.br/certificado/8BQOVQTPZJWZ)
   - - [TDD com Ruby on Rails, RSpec e Capybara](https://www.udemy.com/certificate/UC-fcb08b78-69fb-4c66-a02d-f93e92ecfb17/)
+  - - [Desenvolvendo REST / RESTful APIs com Ruby on Rails](https://www.udemy.com/certificate/UC-9dab7605-6b56-410e-bd12-12ff56beece0/)
   - - [Bancos de dados relacionais](https://www.treinaweb.com.br/certificado/R3CLLTOTDJLC) ``cursos em andamento``
   
   - Shell Script
