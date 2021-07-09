@@ -49,6 +49,7 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
   - - [Desenvolvendo REST / RESTful APIs com Ruby on Rails](https://www.udemy.com/certificate/UC-9dab7605-6b56-410e-bd12-12ff56beece0/)
   - - [Bancos de dados relacionais](https://www.treinaweb.com.br/certificado/R3CLLTOTDJLC) ``cursos em andamento``
   - - [Node.js - Fundamentos](https://www.treinaweb.com.br/certificado/KTPGLEMSW4GD)
+  - - [React - Fundamentos](https://www.udemy.com/certificate/UC-29142aa8-90a4-478e-a78d-75530ac4c700/)
  
   - Shell Script
   - PowerShell
