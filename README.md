@@ -16,7 +16,8 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
 
 ## Formação
 
-- Gestão de Tecnologia da Informação na Universidade Estácio de Sá
+- Ciência da Computação na Faculdade Descomplica (Segunda Graduação)
+- Formando em Gestão de Tecnologia da Informação na Universidade Estácio de Sá
 
   
 
@@ -40,6 +41,7 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
 
 - **Desenvolvimento**
 
+ - - [Formação de Desenvolvedor Python Júnior](https://www.treinaweb.com.br/certificado/VJ981U6PW42P)
   - Desenvolvedor Ruby On Rails ``(Focado nos meus estudos)``
   - - [Ruby on Rails Básico](https://www.treinaweb.com.br/certificado/SGGQLWAJXOTO)
   - - [Ruby on Rails Intermediário](https://www.treinaweb.com.br/certificado/I88MCZR9I1HL)
