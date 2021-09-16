@@ -42,6 +42,7 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
 - **Desenvolvimento**
 
  - - [Formação de Desenvolvedor Python Júnior](https://www.treinaweb.com.br/certificado/VJ981U6PW42P)
+ - - [Flask - Fundamentos](https://www.treinaweb.com.br/certificado/LXAMYQDCTPQD)
   - Desenvolvedor Ruby On Rails ``(Focado nos meus estudos)``
   - - [Ruby on Rails Básico](https://www.treinaweb.com.br/certificado/SGGQLWAJXOTO)
   - - [Ruby on Rails Intermediário](https://www.treinaweb.com.br/certificado/I88MCZR9I1HL)
