@@ -6,6 +6,8 @@ Tenho 36 anos, sou casado com a **Sra. Carla**. Moramos em Nova Iguaçu, na verd
 
 Não temos filhos ainda, mas está no planejamento. Eu gosto Linux, desenvolvimento e assistir esportes.
 
+**Somente tenho interesse em vagas remotas ou no máximo híbridas.**
+
 Sou um profissional de infraestrutura, buscando oportunidades para trabalhar como **Desenvolvedor Ruby On Rails**.
 
 Comecei meus estudos em **Ruby On Rails** em Janeiro de 2021, mas estou estudando bastante para conseguir fazer uma transição de carreira, acredito que meus conhecimentos em infraestrutura podem ajudar muito nesse processo.
