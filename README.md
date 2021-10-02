@@ -61,7 +61,8 @@ Ruby não é minha primeira linguagem, minha primeira foi Shell Script e depois 
   - Git e Github
 
 - **DevOps** ``(Ainda estudando tecnologias relacionadas)``
-
+  - Docker
+  - [Kubernetes - Fundamentos](https://www.treinaweb.com.br/certificado/OLLOT1LQ0QP9)
 - **Meu inglês é bem básico, preciso melhorar. Consigo me virar bem para documentação e administração de sistemas.**
 
   
